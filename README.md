@@ -105,3 +105,8 @@ You are required to submit BOTH of the following for review:
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+// row.addClass("input-group mb-0.1 row");
+// timeBlock.addClass("input-group-prepend col-1 hour");
+// textArea.addClass("form-control col-10");
+// saveBtn.addClass("saveBtn fas fa-save col-1")
+
